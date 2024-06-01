@@ -12,12 +12,7 @@ I was able to make 3 of these for 38$USD, about 13$ each with parts leftover
 
 -web client to easily edit what is displayed
 **********************
-
 ![20240601_051727466_iOS](https://github.com/krobledo/OpenHWMonitor-using-ESP32-and-SSD1306/assets/22754721/bea1cbdd-a525-43a4-b713-f6ea4371b82f)
-
-
-feel free to leave any suggestions
-
 ************************************************************************************************************************
 **Requirements**
 *******************
