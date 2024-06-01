@@ -6,6 +6,7 @@ a project to grab openhardwaremonitor information and load it onto the oled scre
 Please make sure to install OpenHardwareMonitor from the following website or feel free to google it :) 
 https://openhardwaremonitor.org/
 
+
 this project was made as an afforable alternative to hardware monitoring for my Windows PC
 
 feel free to leave a comment or suggestion
