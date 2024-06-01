@@ -33,9 +33,9 @@ feel free to leave any suggestions
 1. Install OpenHardwareMonitor from the following website or feel free to google it :) 
 https://openhardwaremonitor.org/
 
-2. Download monitor.py (loads data from OpenHWMonitor)
+2. Download [monitor.py](https://github.com/krobledo/OpenHWMonitor-using-ESP32-and-SSD1306/blob/main/monitor.py) (loads data from OpenHWMonitor)
 
-3. Upload esphwmonitor.ino to ESP32 (I used ArduinoIDE to load)
+3. Upload [esphwmonitor.ino](https://github.com/krobledo/OpenHWMonitor-using-ESP32-and-SSD1306/blob/main/esphwmonitor.ino) to ESP32 (I used ArduinoIDE to load)
 
 4. Run monitor.py
 
