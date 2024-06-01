@@ -3,6 +3,8 @@ a project to grab openhardwaremonitor information and load it onto the oled scre
 
 this project was made as an afforable alternative to hardware monitoring for my Windows PC
 
+I was able to make 3 of these for 38$USD, about 13$ each with parts leftover
+
 **********************
 **In Progress**
 
